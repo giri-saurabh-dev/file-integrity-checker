@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RNCMyNj+lLQ=",
+  "success": true,
+  "projectFilePath": "D:\\New folder\\file-integrity-checker\\file-integrity-checker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thein\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
